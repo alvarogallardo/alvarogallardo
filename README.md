@@ -1,16 +1,13 @@
 ### Hi, I'm Thi 👋 — looking for a job as a Data Scientist in Île-de-France 🔭
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/dinhanhthi/)
-[![My Notes](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://dinhanhthi.com/notes)](https://dinhanhthi.com/notes)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/álvaro-gallardo-alvarado/)](www.linkedin.com/in/álvaro-gallardo-alvarado/)
 
-I'm a Vietnamese guy who has a curious mind. I'd like to learn something new everyday. I'm a **PhD in Applied Maths** and currently a **Data Scientist**.
+
+I am a Chilean who has a curious mind. I would like to learn something new every day. I am an electrical civil engineering student and I want to work as a **Data Scientist**.
 
 - 🌱 I’m currently learning *Advanced Machine Learning* & *Data Science* (and enjoying _Web Dev_).
-- 🔥 Most proud of -- [Math2IT](http://math2it.com/), a Vietnamese site for intuitive knowledge (maths, education and technology).
-- 📚 My notes of learning at [dinhanhthi.com/notes](http://dinhanhthi.com/notes).
 - 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
-- 💌 Contact me at [dinhanhthi@gmail.com](mailto:dinhanhthi@gmail.com).
+- 💌 Contact me at [alvaro.gallardo.a@ug.uchile.cl](mailto:alvaro.gallardo.a@ug.uchile.cl).
 
 Technologies I've been learning and using so far :
 
@@ -55,7 +52,7 @@ Technologies I've been learning and using so far :
     [![Sphinx](http://img.shields.io/badge/-Sphinx-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAABI1BMVEUAAAAIR2wIRmsJR2wHR2sJSGwJR20JRm0IR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIRmwIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2z///+XvfDmAAAAYHRSTlMAAAAAAAAAAAYfPksyExhAcqjExse9k1lEIQOHzMXBu8vWw8lmit3OgkKw/n5s4s9RAU+htpW3dpfkaRsqVy5HfJim59gkswd3UNs7ozoVAZZdsQsOi52nXghjCjg9EgKZIX1LAAAAlUlEQVQI11WOvQ7BYABF7/laIWqQRproZrHb2P0MVpPByxk6iL4Fu82moxCRRlQa4jPUT9zl5uQsB/0NiR9ZjJXKAGRPCVMDwBoACIvjUnXJK4Tem8k8oANJK60D7Jvg9D72urmJAUl60JBjwG4rxgBnf911IBYTWLUDWPj9SIIppwZzzZajWJYi0X2U7pL9BjuSm0sv/jwjvB/O1IMAAAAASUVORK5CYII=)](/sphinx-restructuredtext)
 
 
-More about me 👉 [dinhanhthi.com](https://dinhanhthi.com).
+
 
 -----
 Credits: [dinhanhthi](https://github.com/dinhanhthi)
