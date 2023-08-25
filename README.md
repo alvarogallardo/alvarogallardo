@@ -1,6 +1,6 @@
 ### Hi, I'm Thi 👋 — looking for a job as a Data Scientist in Île-de-France 🔭
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/álvaro-gallardo-alvarado/)](www.linkedin.com/in/álvaro-gallardo-alvarado/)]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/álvaro-gallardo-alvarado/)](https:/www.linkedin.com/in/álvaro-gallardo-alvarado/)]
 
 
 I am a Chilean who has a curious mind. I would like to learn something new every day. I am an electrical civil engineering student and I want to work as a **Data Scientist**.
