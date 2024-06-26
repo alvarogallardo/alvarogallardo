@@ -1,4 +1,4 @@
-### Hi, I'm Álvaro 👋 — looking for a job as a Data Scientist in Île-de-France 🔭
+### Hi, I'm Álvaro Gallardo 👋 — looking for a job as a Data Scientist in Île-de-France 🔭
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/álvaro-gallardo-alvarado/)](https://www.linkedin.com/in/álvaro-gallardo-alvarado/)
 
